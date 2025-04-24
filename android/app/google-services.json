@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1037867467592",
+    "project_id": "e-notepad-b9648",
+    "storage_bucket": "e-notepad-b9648.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037867467592:android:476766aee539c907e3e97d",
+        "android_client_info": {
+          "package_name": "com.example.e_notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037867467592-umvq26bcigh7hria9itrf5c3tu8jonr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_notepad",
+            "certificate_hash": "41c619369b5e2ae5f891a461a68b3f86569f589a"
+          }
+        },
+        {
+          "client_id": "1037867467592-cjbkljdai5pq7r4jbo5dbeb88hga67l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXTP5piFW-XXYgXh93mhKwA5N2GCSmtWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037867467592-cjbkljdai5pq7r4jbo5dbeb88hga67l5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037867467592-5h0ej2nsb483l8n8mutla5acor4ou0cd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eNotepad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
